@@ -1,0 +1,28 @@
+.movieListPanel
+{
+    position: absolute;
+    left: 10px;
+    top: 0px;
+    width: 400px;
+}
+
+.movieListItem
+{
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: whitesmoke;
+    border-bottom: 1px saddlebrown solid;
+   cursor: pointer;
+   margin: 5px;
+}
+
+.movieDetails
+{
+    position: absolute;
+    top: 0px;
+    left: 450px;
+    border-left: 1px saddlebrown solid;
+    padding-left: 10px;
+    margin-right: 10px;
+}
+
